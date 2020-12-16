@@ -1,5 +1,5 @@
 
-package sampleCode.Games;
+//package sampleCode.Games;
 
 import  java.util.Scanner;
 // Java scanner must be imported in order to get user input
